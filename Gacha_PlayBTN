@@ -1,6 +1,6 @@
 {
     "buttons": [
-        {"id": "button1", "state": 0}
+        {"id": "button1", "state": 1}
         
       
     ]
